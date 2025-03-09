@@ -59,7 +59,7 @@ class User {
     }
 }
 
-public class Main {
+public class MyEmail {
     public static void main(String[] args) {
         User user = new User("Afif", "Albana");
         SignatureProvider signatureProvider = new SimpleSignatureProvider("Regards,");
